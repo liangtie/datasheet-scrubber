@@ -12,7 +12,7 @@ If you find this tool useful in your research, we kindly request to cite our pap
 
 ### Setup instructions
 
-1. Ensure your machine has the correct Python version and all of the Python modules required to run through the datasheet scrubber. 
+1. Ensure your machine has the correct Python version and all of the Python modules required to run through the datasheet scrubber.
     - Requirements: [Anaconda](anaconda.com), and [Tensorflow](https://docs.anaconda.com/free/anaconda/applications/tensorflow/). Python versions below 3.6 are not supported.
     
 1. Ensure you have ssh keys setup for github. Instructions for generating and adding ssh keys can be found [here](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
