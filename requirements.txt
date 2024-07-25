@@ -19,7 +19,6 @@ google-auth-oauthlib
 google-pasta
 grpcio
 h5py
-hdf5
 idna
 importlib-metadata
 Jinja2
@@ -56,7 +55,7 @@ rsa
 selenium
 setuptools
 six
-sklearn
+scikit-learn
 termcolor
 tqdm
 typing-extensions
@@ -68,6 +67,8 @@ xlrd
 xlwt
 xml-python
 yattag
+pdfminer
+PyPDF2
 
 # tensorboard
 # tensorboard-plugin-wit
