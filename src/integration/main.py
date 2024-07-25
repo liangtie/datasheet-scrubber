@@ -50,7 +50,7 @@ url_model2='https://dl.boxcloud.com/d/1/b1\u00218JKQhYakXua_rAYAdC0JXBt6uiaA_-PY
 output = 'tokenizer_long.pickle'
 gdown.download(url_model2, output, quiet=False)
 
-print("okenizer_long.pickle was succesfully downloaded") 
+print("okenizer_long.pickle was succesfully downloaded")
 
 
 """ file_id1 = 'bchj5h09tjtes6gyhbmosz6w7a15ehfv'
