@@ -1,0 +1,4 @@
+{
+  "name": "data sheet scrubber dev box",
+  "image": "debian:bookworm"
+}
