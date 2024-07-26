@@ -69,7 +69,7 @@ xml-python
 yattag
 pdfminer
 PyPDF2
-
+opencv-python
 # tensorboard
 # tensorboard-plugin-wit
 # tensorflow
