@@ -119,3 +119,4 @@ src/table_extraction/yolo_helpers/keras_yolo3/yolov3.weights
 # Category recognition downloaded models
 src/category_recognition/Models/
 src/category_recognition/Full_Dataset/
+Full_Dataset.zip
